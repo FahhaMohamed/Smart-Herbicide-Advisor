@@ -15,9 +15,8 @@ A Flutter-based mobile application that uses AI/ML to provide smart herbicide re
 ## ✨ Features
 
 - 🤖 **AI-Powered Analysis**: Uses TensorFlow Lite for real-time crop disease detection
-- 📷 **Camera Integration**: Capture photos of crops for instant analysis
+- 📷 **Camera & Gallery Integration**: Capture or upload photos of crops for instant analysis
 - 💡 **Smart Recommendations**: Get personalized herbicide suggestions
-- 📊 **History Tracking**: View past analyses and recommendations
 - 🌐 **Offline Support**: Works without internet connection
 - 🎨 **Modern UI**: Clean and intuitive user interface
 
@@ -27,7 +26,7 @@ Before running this app, make sure you have:
 
 - **Flutter SDK** (3.0 or higher)
 - **Dart SDK** (3.0 or higher)  
-- **Android Studio** / **Xcode** (for device deployment)
+- **Android Studio** (for device deployment)
 - **Git** for version control
 
 ### Check Flutter Installation:
