@@ -126,9 +126,6 @@ flutter build apk --release
 
 # Android Bundle (for Play Store)
 flutter build appbundle --release
-
-# iOS (requires Mac and Xcode)
-flutter build ios --release
 ```
 
 ## 📁 Project Structure
