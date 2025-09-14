@@ -39,7 +39,7 @@ flutter doctor
 ### 1. Clone the Repository
 ```bash
 git clone https://github.com/FahhaMohamed/Smart-Herbicide-Advisor.git
-cd cropguard-app
+cd Smart-Herbicide-Advisor
 ```
 
 ### 2. Install Dependencies
